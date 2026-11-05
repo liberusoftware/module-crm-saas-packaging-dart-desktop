@@ -1,0 +1,15 @@
+{
+  "repository": "module-crm-saas-packaging-dart-desktop",
+  "capabilityKey": "liberusoftware/module-crm-saas-packaging",
+  "presentation": "dart-desktop",
+  "package": "module_crm_saas_packaging_dart_desktop",
+  "foundation": "module-boilerplate-dart-desktop",
+  "foundationCommit": "5ccb3f077d7279dad684f2aa24e4c9d27f0d1246",
+  "canonicalPlan": "projects/crm/nextjs/saas-packaging.md",
+  "presentationPlan": "projects/crm/features/saas-packaging.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "crm"
+  ]
+}
